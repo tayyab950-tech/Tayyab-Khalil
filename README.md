@@ -18,10 +18,11 @@
         <h4>💻 Languages & Tools I Use </h4>
 
         <h4>🔥Contribution Streaks and Top Languages</h4>
-        <h4> ☕ Ways to support my work via Buy Me a Coffee I’m passionate about
+        <h4> ☕ Ways to support my work via Buy Me a Coffee</h4>
+             I’m passionate about
             writing clean code, learning new technologies, and collaborating on exciting projects. Feel free to check
             out my
-            work or connect with me — let’s build something great together!</h4>
+            work or connect with me — let’s build something great together!
         <img src="img/Linkedin banner.png" alt="image">
 
         <p align="left"> <img
